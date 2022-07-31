@@ -22,30 +22,30 @@ The goal of this project is to take the ATM Exercise and refactor. The steps to 
 * Complete ATM exercise
 * Review files (index.html, style.css, atm-improvements.jsx) and look for ways to refactor
 * Edit existing atm-improvements.jsx by:
-** Add a popup alert to atm-improvements.jsx that warns if you are trying to withdraw more money than your available balance
-** Rename atm-improvements.jsx to atm-func-implementation.jsx to show what the code is doing
-** Move ATM declaration component to a new file called atm-func-declaration.jsx
-** Update index.html so there are two script tags (atm-func-declaration.jsx and atm-func-implementation.jsx)
+- Add a popup alert to atm-improvements.jsx that warns if you are trying to withdraw more money than your available balance
+- Rename atm-improvements.jsx to atm-func-implementation.jsx to show what the code is doing
+- Move ATM declaration component to a new file called atm-func-declaration.jsx
+- Update index.html so there are two script tags (atm-func-declaration.jsx and atm-func-implementation.jsx)
 
 
 ## How to Run
 * To run, open ___index.html___.
 * To add money to your account:
-** Select __Deposit__ from the drop-down menu:
-** Enter the *Deposit* amount in the input box
-** Click *Submit* button
-** Verify __Account Balance__ is correct
+- Select __Deposit__ from the drop-down menu:
+- Enter the *Deposit* amount in the input box
+- Click *Submit* button
+- Verify __Account Balance__ is correct
 * To get money from your account:
-** Select __Cash Back__ from the drop-down menu:
-** Enter the *Cash Back* amount in the input box
-*** If your Cash Back request exceeds your account balance, you will get an *insufficient funds* alert
-** Click *Submit* button
-** Verify __Account Balance__ is correct
+- Select __Cash Back__ from the drop-down menu:
+- Enter the *Cash Back* amount in the input box
+- - If your Cash Back request exceeds your account balance, you will get an *insufficient funds* alert
+- Click *Submit* button
+- Verify __Account Balance__ is correct
 
 ## Roadmap of Future Improvements
 * Add some additional styling to improve UI:
-** When selecting __Cash Back__, change the dollar amount color to red
-** After clicking *Submit*, reset the input box to blank
+- When selecting __Cash Back__, change the dollar amount color to red
+- After clicking *Submit*, reset the input box to blank
 
 
 ## Learning Insights
