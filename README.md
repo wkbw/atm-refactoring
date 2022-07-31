@@ -54,6 +54,6 @@ Adding a variable to React state to track whether the transaction is valid or no
 
 
 ## License Information
-[This ATM project is licensed under the MIT License](https://github.com/wkbw/atm-refactoring/main/LICENSE).
+[This ATM project is licensed under the MIT License](https://github.com/wkbw/atm-refactoring/blob/main/LICENSE).
 
 
