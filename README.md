@@ -45,6 +45,7 @@ The goal of this project is to take the ATM Exercise and refactor. The steps to 
 ## Roadmap of Future Improvements
 * Add some additional styling to improve UI:
   - When selecting __Cash Back__, change the dollar amount color to red
+  - Fix the alert so it pops up after the withdrawl amount is fully rendered in the input box
   - After clicking *Submit*, reset the input box to blank
 
 
